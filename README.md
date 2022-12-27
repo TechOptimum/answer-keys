@@ -1,13 +1,10 @@
-# Markdown template
+# Answer Keys for Tech Optimum Courses
+Hello! Certain projects in our courses at [courses.techoptimum.org](https://courses.techoptimum.org) have mini-projects within the courses. To make sure you can make the project without help, we have made this external repository for all the answer keys to those projects.
+### Table of Contents:
+#### Intro to Python:
+Coming soon!
 
-This is a simple Markdown template. The intended use is:
-* Browse `.md` files from the file tree on the left.
-* Edit the file contents in the editor.
-* Click the `Open preview` button in the top right of the editor pane.
-* Preview the changes in the preview tab named `Markdown` in the pane to the right.
-
-If you want to view just the editor or preview, simply drag the handle in between the panes and resize.
-
-For some tips on using Markdown check out these online resources:
-* Markdown Guide's [cheat sheet](https://www.markdownguide.org/cheat-sheet/)
-* Markdown Guide's [Basic Syntax Overview](https://www.markdownguide.org/basic-syntax/)
+#### Intro to Web Dev:
+Coming soon!
+#### Intro to SQL
+Coming soon!
